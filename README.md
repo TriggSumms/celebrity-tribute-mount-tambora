@@ -1,3 +1,68 @@
+# VINNIE's Official Website
+
+Vinnie's Web-page was designed to educate the public on all things Vin Diesel . 
+This is the first Group Project inside NSS's COHORT 41. 
+Website Breakdown Of Roles:
+
+~Home Pg: James Su-Shum
+~Career Pg: Trigg Summs
+~BIO Pg.: Rob Mixon
+~News and Extra Pg: John Hester
+
+## Installation
+
+```python
+clone or download via SSH
+
+git checkout master  (inside the placed directory)
+code .    (To edit the code)
+serve     (To check out the website on your local)
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+
+Website Breakdown Of Roles:
+Home Pg: James Su-Shum
+Career Pg: Trigg Summs
+BIO Pg.: Rob Mixon
+News and Extra Pg: John Hester
+
+## License
+README.com (MIT) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NSS'S PROJECT GUIDELINES 
+
 # Nashville Software School Tribute Agency
 
 Welcome fans.
